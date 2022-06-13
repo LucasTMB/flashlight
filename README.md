@@ -1,6 +1,6 @@
 # flashlight-dio
 
-## Meu primeiro app desenvolvido!
+## Meu primeiro app desenvolvido em React Native!
 
 Desenvolvi esse app, no React Native, que ativa a lanterna do celular através de um clique ou chacoalhamento. Esse projeto foi desenvolvido com a ajuda do professor Ismael Moreira, da DIO, através do programa Decola Tech #3, em parceria com a Avanade. 
 
